@@ -1,0 +1,25 @@
+{
+	"name": "pumpdoge",
+	"short_name": "pumpdoge",
+	"icons": [
+		{
+			"src": "/favicon-16x16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "/favicon-32x32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "/apple-touch-icon.png",
+			"sizes": "180x180",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#171618",
+	"background_color": "#171618",
+	"display": "standalone"
+}
+

@@ -1,0 +1,294 @@
+2 | amble, we work."/> <meta property="og:url" content="https://kendu.io"/> <meta property="og:type" content="website"/> <meta property="og:title" co
+2 | ntent="Kendu"/> <meta property="og:description" content="We don't gamble, we work."/> <meta
+2 | property="og:image" content="https://kendu.io/images/og-home.jpg"/> <meta name="twitter:card" content="summary_large_image
+2 | "/> <meta property="twitter:domain" content="kendu.io"/> <meta property="twitter:url" content="https://kendu.io"/> <meta name="twi
+2 | tter:title" content="Kendu"/> <meta name="twitter:description" content="We don't gamble, we work."/> <meta
+2 | lass="flex items-center gap-4 max-md:gap-3"><img src="icons/kendu-logo.svg" alt="Kendu Mask Logo" class="size-18 max-lg:size-12 max-md:size-10"/>
+2 | acking-tight max-lg:text-[3.125rem] max-md:text-[2.375rem]">Kendu</div> <div class="font-uniform-pro-regular text-[1.1875rem] leading-none tracki
+2 | gap-2 px-3 md:hidden"><a target="_blank" href="https://t.me/kenduinu" class="flex flex-1 items-center justify-center rounded-2xl bg-dark"><img al
+2 | e uppercase">buy</a> <a target="_blank" href="https://x.com/kenduinu" class="flex flex-1 items-center justify-center rounded-2xl bg-dark"><img al
+2 | lg:text-[1.375rem] max-md:max-w-full max-md:text-[1.25rem]">Kendu <br class="hidden max-lg:block max-md:hidden"/> is your canvas, now paint!</div
+2 | em] whitespace-pre text-grey-g1 uppercase max-lg:text-base">KENDU EMPOWERS BUILDERS</p></div> <div class="mt-16 flex w-full justify-center max-lg
+2 | re</span></div> <a href="https://skynet.certik.com/projects/kendu-inu" target="_blank" class="absolute right-[2.75rem] bottom-[1rem] flex size-[5
+2 | max-md:max-w-full max-md:text-[1.25rem] max-md:text-nowrap">Kendu <br class="max-md:hidden"/> Certik Audit</span> <span class="max-w-[23.125rem]
+2 | -w-[18.51563rem] max-lg:text-[0.9375rem] max-md:max-w-full">Kendu is the second memecoin in history to organically reach the 50,000 votes needed
+2 | ap-3 max-md:grid-cols-1 max-md:gap-4"><a href="https://t.me/Kendu" target="_blank" rel="noopener noreferrer" class="group relative w-full"><img s
+2 | ] max-lg:size-[1rem]"/></button></a> <a href="https://x.com/KenduInu" target="_blank" rel="noopener noreferrer" class="group relative w-full"><im
+2 | md:max-w-full max-md:text-[0.9375rem] max-md:text-wrap">The Kendu community grows through real action — online, offline, and everything in betwee
+2 | i-mono text-[1.4375rem] text-white max-md:text-[1.3125rem]">Kendu</h3> <p class="font-uniform-pro text-[0.9375rem] uppercase max-md:text-[0.6875r
+2 | em] max-md:text-grey-g2">© 2025 Kendu. <br/> Permissionless brand. <br/> Some rights reserved.</p></div></div> <div c
+1 | <g id="Kendu Mask Logo - Black - RGB 1">
+1 | name="twitter:image" content="https://kendu.io/images/og-home.jpg"/><!----><title>Kendu</title>
+1 | um tracking-[-0.04rem] text-grey-g1 uppercase max-lg:block">KENDU</span></a> <nav class="flex space-x-10 max-lg:hidden"><!--[--><a href="/" class
+1 | ax-lg:hidden"><div class="flex gap-2"><a href="https://t.me/Kendu" target="_blank"><button type="button" class="inline-flex items-center justify-
+1 | 5rem]"/><!--]--></button><!----></a> <a href="https://x.com/KenduInu" target="_blank"><button type="button" class="inline-flex items-center justi
+1 | max-md:rounded-2xl"><a href="https://www.coinbase.com/price/kendu-inu " target="_blank" class="flex size-[6rem] items-center justify-center round
+1 | eading-[1.3] text-grey-g1 opacity-90">What will you du with Kendu?</div></div><!--]--></div> <div class="flex w-full flex-col items-start gap-3 t
+1 | ld your dreams.</div></div></div></a><a href="https://x.com/KenduGames" target="_blank" class="embla__slide w-[19.375rem] flex-shrink-0 max-lg:w-
+1 | > <img src="/_app/immutable/assets/games.e1c8ZWMQ.png" alt="Kendu Games" class="absolute inset-0 h-full w-full object-cover" width="1024" height=
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Games</div> <div class="w-full font-uniform-pro-regular text-base leading-[1.4]
+1 | >Indie studio by ex-Bioware &amp; AAA devs. Play bold, play Kendu.</div></div></div></a><a href="https://kenduenergy.com/collections/drinks" targ
+1 | <img src="/_app/immutable/assets/energy.CxG0_7EX.png" alt="Kendu Energy" class="absolute inset-0 h-full w-full object-cover" width="1125" height
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Energy</div> <div class="w-full font-uniform-pro-regular text-base leading-[1.4
+1 | text-[0.9375rem] max-md:text-[0.875rem]">Fuel up raids with Kendu Energy drinks. Power meets flavor.</div></div></div></a><a href="https://kendu-
+1 | mg src="/_app/immutable/assets/unleashed.Cj0TSyq3.png" alt="Kendu Unleashed" class="absolute inset-0 h-full w-full object-cover" width="1179" hei
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Unleashed</div> <div class="w-full font-uniform-pro-regular text-base leading-[
+1 | :text-[0.9375rem] max-md:text-[0.875rem]">Extreme sports in Kendu, empowering every rider, racer, shredder, and athlete to unleash their full pot
+1 | ential.</div></div></div></a><a href="https://x.com/kenduentertain" target="_blank" class="embla__slide w-[19.375rem] flex-shrink-0 max-l
+1 | rc="/_app/immutable/assets/entertainment.C1y_i99P.png" alt="Kendu Entertainment" class="absolute inset-0 h-full w-full object-cover" width="1024"
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Entertainment</div> <div class="w-full font-uniform-pro-regular text-base leadi
+1 | em]">Clubs, music, and sport—Kolkata's nights light up with Kendu.</div></div></div></a><a href="https://x.com/KenduSTREET" target="_blank" class
+1 | src="/_app/immutable/assets/street-team.C7bAhwaz.png" alt="Kendu Street Team" class="absolute inset-0 h-full w-full object-cover" width="1280" h
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Street Team</div> <div class="w-full font-uniform-pro-regular text-base leading
+1 | -[0.9375rem] max-md:text-[0.875rem]">Murals, festivals, art—Kendu hits the streets with StaySeaArt</div></div></div></a><a href="https://kenducof
+1 | <img src="/_app/immutable/assets/coffee.CPj7caWo.png" alt="Kendu Coffee" class="absolute inset-0 h-full w-full object-cover" width="1280" height
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Coffee</div> <div class="w-full font-uniform-pro-regular text-base leading-[1.4
+1 | max-md:text-[0.875rem]">Brazilian beans, roasted in the UK. Kendu Coffee, day or night.</div></div></div></a><a href="https://www.kendubrilliance
+1 | g src="/_app/immutable/assets/brilliance.DUCu6pk4.png" alt="Kendu Brilliance" class="absolute inset-0 h-full w-full object-cover" width="640" hei
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Brilliance</div> <div class="w-full font-uniform-pro-regular text-base leading-
+1 | 0.9375rem] max-md:text-[0.875rem]">Jewelry that shines with Kendu flair. Brilliance redefined.</div></div></div></a><a href="https://kenduenergy.
+1 | > <img src="/_app/immutable/assets/merch.BTat0iq1.png" alt="Kendu Merch" class="absolute inset-0 h-full w-full object-cover" width="1280" height=
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Merch</div> <div class="w-full font-uniform-pro-regular text-base leading-[1.4]
+1 | ] max-md:text-[0.875rem]">Community-driven merch. Wear your Kendu with pride.</div></div></div></a><a href="https://kenducreator.com/" target="_b
+1 | <img src="/_app/immutable/assets/creator.BgYaZzZ7.png" alt="Kendu Creator" class="absolute inset-0 h-full w-full object-cover" width="1000" heigh
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Creator</div> <div class="w-full font-uniform-pro-regular text-base leading-[1.
+1 | g:text-[0.9375rem] max-md:text-[0.875rem]">Download free 3D Kendu masks. Print, post, and play.</div></div></div></a><a href="https://kendu-unsti
+1 | src="/_app/immutable/assets/unstitched.BuaIHgp7.jpeg" alt="Kendu Unstitched" class="absolute inset-0 h-full w-full object-cover" width="1300" he
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Unstitched</div> <div class="w-full font-uniform-pro-regular text-base leading-
+1 | 90 max-lg:text-[0.9375rem] max-md:text-[0.875rem]">Handmade Kendu patches to stitch your story on.</div></div></div></a><a href="https://x.com/ke
+1 | -> <img src="/_app/immutable/assets/beer.CoW6PQBy.png" alt="Kendu Beer" class="absolute inset-0 h-full w-full object-cover" width="957" height="1
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Beer</div> <div class="w-full font-uniform-pro-regular text-base leading-[1.4]
+1 | -md:text-[0.875rem]">Brewed in the EU, crafted with spirit. Kendu Beer.</div></div></div></a><a href="https://kendu-tales.online/" target="_blank
+1 | img src="/_app/immutable/assets/plushies.Dom2YNQf.png" alt="Kendu Plushies" class="absolute inset-0 h-full w-full object-cover" width="400" heigh
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Plushies</div> <div class="w-full font-uniform-pro-regular text-base leading-[1
+1 | x-md:text-[0.875rem]">Plushies with a tale to tell. Hug the Kendu story.</div></div></div></a><a href="https://kenduspice.com/" target="_blank" c
+1 | > <img src="/_app/immutable/assets/spice.D6LCVQzt.png" alt="Kendu Spice" class="absolute inset-0 h-full w-full object-cover" width="1280" height=
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Spice</div> <div class="w-full font-uniform-pro-regular text-base leading-[1.4]
+1 | 75rem]">Seasonings, rubs, and bold blends. Spice it up with Kendu.</div></div></div></a><a href="https://www.printables.com/@KenduWood_2995984" t
+1 | g src="/_app/immutable/assets/printables.CAICe6WM.png" alt="Kendu Printables" class="absolute inset-0 h-full w-full object-cover" width="649" hei
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Printables</div> <div class="w-full font-uniform-pro-regular text-base leading-
+1 | d:text-[0.875rem]">Keychains, glasses, and more. Print your Kendu fun.</div></div></div></a><a href="https://x.com/KenduVendingTN" target="_blank
+1 | > <img src="/_app/immutable/assets/vendu.Bd7RIAQS.png" alt="Kendu Vendu" class="absolute inset-0 h-full w-full object-cover" width="959" height="
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Vendu</div> <div class="w-full font-uniform-pro-regular text-base leading-[1.4]
+1 | opacity-90 max-lg:text-[0.9375rem] max-md:text-[0.875rem]">Kendu vending machines from Nashville, Tennessee.</div></div></div></a><a href="https
+1 | ://kenduorganics.com/" target="_blank" class="embla__slide w-[19.375rem] flex-shrink-0 m
+1 | img src="/_app/immutable/assets/organics.nQfqPfZa.png" alt="Kendu Organics" class="absolute inset-0 h-full w-full object-cover" width="1536" heig
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Organics</div> <div class="w-full font-uniform-pro-regular text-base leading-[1
+1 | 5rem] max-md:text-[0.875rem]">Organic body care, powered by Kendu.</div></div></div></a><a href="https://www.aliveshoes.com/kendu-2" target="_bla
+1 | img src="/_app/immutable/assets/sneakers.Bh5atO5A.png" alt="Kendu Sneakers" class="absolute inset-0 h-full w-full object-cover" width="1200" heig
+1 | ] uppercase max-lg:text-[1.0625rem] max-md:text-[0.875rem]">Kendu Sneakers</div> <div class="w-full font-uniform-pro-regular text-base leading-[1
+1 | ] max-md:text-[0.875rem]">Italian leather sneakers. Limited Kendu drops.</div></div></div></a><!--]--> <div class="embla__slide w-16 flex-shrink-
+1 | rid-cols-2"><!--[--><a href="https://www.coinbase.com/price/kendu-inu" target="_blank" class="flex h-[6.25rem] items-center justify-center rounde
+1 | max-lg:w-[8rem]"/></a><a href="https://www.lbank.com/trade/kendu_usdt" target="_blank" class="flex h-[6.25rem] items-center justify-center round
+1 | x-lg:w-[8rem]"/></a><a href="https://www.coinex.com/en/info/KENDU" target="_blank" class="flex h-[6.25rem] items-center justify-center rounded-[2
+1 | :w-[8rem]"/></a><a href="https://www.fameex.com/en-US/trade/kendu-usdt" target="_blank" class="flex h-[6.25rem] items-center justify-center round
+1 | em] max-lg:w-[8rem]"/></a><a href="https://big.one/en/trade/KENDU-USDT" target="_blank" class="flex h-[6.25rem] items-center justify-center round
+1 | ax-lg:w-[8rem]"/></a><a href="https://www.superex.com/trade/KENDU_USDTT" target="_blank" class="flex h-[6.25rem] items-center justify-center roun
+1 | em] max-lg:w-[8rem]"/></a><a href="https://bilaxy.com/trade/KENDU_ETH" target="_blank" class="flex h-[6.25rem] items-center justify-center rounde
+1 | w-[8rem]"/></a><a href="https://www.probit.com/app/exchange/KENDU-USDT" target="_blank" class="flex h-[6.25rem] items-center justify-center round
+1 | g:w-[8rem]"/></a><a href="https://www.grovex.io/en_US/trade/KENDU_USDT" target="_blank" class="flex h-[6.25rem] items-center justify-center round
+1 | [8rem]"/></a><a href="https://changenow.io/?from=btc&amp;to=kendu" target="_blank" class="flex h-[6.25rem] items-center justify-center rounded-[2
+1 | m] max-lg:text-[0.9375rem] max-md:text-[0.8125rem]">What is Kendu?</div> <button class="relative flex cursor-pointer items-center justify-center
+1 | 875rem] max-lg:text-[0.9375rem] max-md:text-[0.8125rem]">Is Kendu just another dog/animal token?</div> <button class="relative flex cursor-pointe
+1 | 2 max-lg:w-full max-md:gap-1"><!--[--><a href="https://t.me/Kendu" class="flex h-[6.3125rem] w-[6.85419rem] items-center justify-center rounded-[
+1 | -full w-full max-w-none "/></div></a><a href="https://x.com/KenduInu" class="flex h-[6.3125rem] w-[6.85419rem] items-center justify-center rounde
+1 | l max-w-none "/></div></a><a href="https://www.reddit.com/r/KenduInu_Ecosystem/" class="flex h-[6.3125rem] w-[6.85419rem] items-center justify-ce
+1 | x-md:gap-10"><div class="flex items-start gap-10"><img alt="Kendu Logo" class="size-[4.5rem] max-lg:size-16" src="/icons/kendu-logo.svg"/> <div c
+1 | <a class="false flex items-center gap-4" href="https://t.me/Kendu" target="_blank"><!--[!--><img alt="Telegram" class="size-6 max-md:size-5" src=
+1 | lse flex items-center gap-4" href="https://www.reddit.com/r/KenduInu_Ecosystem/" target="_blank"><!--[!--><img alt="Reddit" class="size-6 max-md:
+1 | a class="false flex items-center gap-4" href="https://x.com/KenduInu" target="_blank"><!--[!--><img alt="Twitter" class="size-6 max-md:size-5" sr
+1 | lse flex items-center gap-4" href="https://www.youtube.com/@Kendu_Army" target="_blank"><!--[!--><img alt="YouTube" class="size-6 max-md:size-5"
+1 | se flex items-center gap-4" href="https://www.instagram.com/kendu.io/" target="_blank"><!--[!--><img alt="Instagram" class="size-6 max-md:size-5"
+1 | false flex items-center gap-4" href="https://stocktwits.com/Kendu" target="_blank"><!--[--><div class="size-6 rounded-2xl bg-cover bg-center bg-n
+1 | alse flex items-center gap-4" href="https://www.tiktok.com/@kenduecosystem" target="_blank"><!--[!--><img alt="TikTok" class="size-6 max-md:size-
+1 | -repeat max-md:size-5" style="background-image: url('/icons/kendu-logo.svg')"></div><!--]--> <span>Brand Assets</span></a></div><div class="group
+1 | -repeat max-md:size-5" style="background-image: url('/icons/kendu-logo.svg')"></div><!--]--> <span>Whitepaper</span></a></div><!--]--></div></div
+1 | uppercase max-md:text-[0.875rem] max-md:text-nowrap">Track Kendu</h4> <div class="flex flex-col gap-8 max-md:gap-6"><!--[--><a href="https://www
+1 | .kendudashboard.com/" target="_blank" class="flex items-center gap-4"><img alt="Kendu
+1 | ashboard" class="h-6 max-md:h-5 w-6 max-md:w-5" src="/icons/kendu-logo.svg"/> <span>Kendu Dashboard</span></a><a href="https://www.dextools.io/ap
+1 | p/en/token/kendu?t=1756758028685" target="_blank" class="flex items-center gap-4"><img alt="DEXT
+1 | ols</span></a><a href="https://coinmarketcap.com/currencies/kendu-inu/" target="_blank" class="flex items-center gap-4"><img alt="CoinMarketCap"
+1 | etCap</span></a><a href="https://www.coingecko.com/en/coins/kendu" target="_blank" class="flex items-center gap-4"><img alt="CoinGecko" class="h-
+1 | "name": "Kendu",
+1 | "short_name": "Kendu",
+1 | con:"/icons/telegram.svg",alt:"Telegram",href:"https://t.me/Kendu"},{id:2,icon:"/icons/twitter.svg",alt:"X (Twitter)",href:"https://x.com/KenduIn
+1 | ons/reddit.svg",alt:"Reddit",href:"https://www.reddit.com/r/KenduInu_Ecosystem/",rounded:!0}];var m=F(),h=s(m);L(h,K);var v=y(h,2),w=s(v);S(w,17,
+1 | um tracking-[-0.04rem] text-grey-g1 uppercase max-lg:block">KENDU</span></a> <nav class="flex space-x-10 max-lg:hidden"></nav></div> <div class="
+1 | ax-lg:hidden"><div class="flex gap-2"><a href="https://t.me/Kendu" target="_blank"><!></a> <a href="https://x.com/KenduInu" target="_blank"><!></
+1 | n> <!></header>');function Zr(e,t){Ke(t,!1),ye(t,"title",8,"Kendu");let r=Xe(!1);const o=[{href:"/",label:"Home"},{href:"/buy",label:"Buy"},{href
+1 | x-md:gap-10"><div class="flex items-start gap-10"><img alt="Kendu Logo" class="size-[4.5rem] max-lg:size-16"/> <div class="flex flex-col gap-3 ma
+1 | uppercase max-md:text-[0.875rem] max-md:text-nowrap">Track Kendu</h4> <div class="flex flex-col gap-8 max-md:gap-6"></div></div></div></div></fo
+1 | on Pe(z,I){be(I,!1),ze(I,"device",8,"3840");const u="/icons/kendu-logo.svg",_="/icons/copy-icon.svg",K="/icons/telegram.svg",j="/icons/reddit2.sv
+1 | B59E09Ed7"}],ve=[{name:"Telegram",icon:K,href:"https://t.me/Kendu"},{name:"Reddit",icon:j,href:"https://www.reddit.com/r/KenduInu_Ecosystem/"},{n
+1 | ame:"Twitter",icon:re,href:"https://x.com/KenduInu"},{name:"YouTube",icon:se,href:"https://www.youtube.com/@Kendu_Army"},{name:
+1 | "Instagram",icon:ie,href:"https://www.instagram.com/kendu.io/"},{name:"Stocktwits",icon:ne,isBackground:!0,href:"https://stocktwits.com/K
+1 | endu"},{name:"TikTok",icon:oe,href:"https://www.tiktok.com/@kenduecosystem"},{name:"Brand Assets",icon:u,isBackground:!0,href:"/brand-assets"},{n
+1 | ld",url:"/build"},{name:"Policy",url:"/policy"}],pe=[{name:"Kendu Dashboard",icon:u,href:"https://www.kendudashboard.com/"},{name:"DEXTools",icon
+1 | h:"w-[20.716px]",href:"https://www.dextools.io/app/en/token/kendu?t=1756758028685"},{name:"CoinMarketCap",icon:de,href:"https://coinmarketcap.com
+1 | /currencies/kendu-inu/"},{name:"CoinGecko",icon:ce,href:"https://www.coingecko.com/en/coins/kendu
+1 | it fetch("https://api.coingecko.com/api/v3/simple/price?ids=kendu-inu&vs_currencies=usd&include_market_cap=true");if(!d.ok)throw new Error(`HTTP
+1 | error! status: ${d.status}`);const u=await d.json();if(u["kendu-inu"])return{marketCap:u["kendu-inu"].usd_market_cap||0,price:u["kendu-inu"].us
+1 | eading-[1.3] text-grey-g1 opacity-90">What will you du with Kendu?</div></div>'),Ct=x('<a class="embla__slide w-[19.375rem] flex-shrink-0 max-lg:
+1 | ile you build your dreams.",image:it,link:"/build"},{title:"Kendu Games",description:"Indie studio by ex-Bioware & AAA devs. Play bold, play Kend
+1 | u.",image:mt,link:"https://x.com/KenduGames"},{title:"Kendu Energy",description:"Fuel up raids with Kendu Energy drinks. Power meets flavor
+1 | .",image:ot,link:"https://kenduenergy.com/collections/drinks"},{title:"Kendu Unleashed",description:"Extreme sp
+1 | orts in Kendu, empowering every rider, racer, shredder, and athlete to unleash their full pot
+1 | ential.",image:nt,link:"https://kendu-unleashed.com/"},{title:"Kendu Entertainment",description:"Clubs, music, and sp
+1 | ort—Kolkata's nights light up with Kendu.",image:lt,link:"https://x.com/kenduentertain"},{title:"Kendu Street Team",desc
+1 | ription:"Murals, festivals, art—Kendu hits the streets with StaySeaArt",image:pt,link:"https://x.com/KenduSTREET"},{t
+1 | itle:"Kendu Coffee",description:"Brazilian beans, roasted in the UK. Kendu Coffee, day or n
+1 | ight.",image:dt,link:"https://kenducoffee.com/"},{title:"Kendu Brilliance",description:"Jewelry that shines with Kendu flair. Brilliance redef
+1 | ined.",image:gt,link:"https://www.kendubrilliance.com/"},{title:"Kendu Merch",description:"Community-driven merch. Wear
+1 | your Kendu with pride.",image:wt,link:"https://kenduenergy.com/"},{title:"Kendu Creator",description:"Download free 3D Kendu masks.
+1 | Print, post, and play.",image:ut,link:"https://kenducreator.com/"},{title:"Kendu Unstitched",description:"Handmade Kendu patches to
+1 | stitch your story on.",image:ct,link:"https://kendu-unstitched.square.site/"},{title:"Kendu Beer",description:"Brewed in the EU, cr
+1 | afted with spirit. Kendu Beer.",image:ht,link:"https://x.com/kendubeers"},{title:"Kendu Plushies",descri
+1 | ption:"Plushies with a tale to tell. Hug the Kendu story.",image:ft,link:"https://kendu-tales.online/"},{title:"Kendu Spice",descr
+1 | iption:"Seasonings, rubs, and bold blends. Spice it up with Kendu.",image:vt,link:"https://kenduspice.com/"},{title:"Kendu Printables",descriptio
+1 | n:"Keychains, glasses, and more. Print your Kendu fun.",image:xt,link:"https://www.printables.com/@KenduWood_2995984"},{title:"Ke
+1 | ndu Vendu",description:"Kendu vending machines from Nashville, Tennessee.",image:bt,link:"https://x.com/Kendu
+1 | VendingTN"},{title:"Kendu Organics",description:"Organic body care, powered by Kendu.",image:_t,link:"htt
+1 | ps://kenduorganics.com/"},{title:"Kendu Sneakers",description:"Italian leather sneakers. Limited Kendu drops.",image:Lt
+1 | ,link:"https://www.aliveshoes.com/kendu-2"}];let l,g=null,w;const v={align:"start",containScroll:"trimSnaps",dragFree:!
+1 | go.svg",alt:"Coinbase",link:"https://www.coinbase.com/price/kendu-inu "}];let p=0,s,o=ae(0),i=ae(0),b=ae(!1);ne(()=>{const K=()=>{p=window.scroll
+1 | se.svg",alt:"Coinbase",link:"https://www.coinbase.com/price/kendu-inu"},{src:"/images/exchanges/lbank.svg",alt:"LBank",link:"https://www.lbank.co
+1 | m/trade/kendu_usdt"},{src:"/images/exchanges/coinex.svg",alt:"CoinEx",link:"https://www.coine
+1 | x.com/en/info/KENDU"},{src:"/images/exchanges/fameex.png",alt:"Fameex",link:"https://www.fameex.com
+1 | /en-US/trade/kendu-usdt"},{src:"/images/exchanges/bigone.svg",alt:"BigOne",link:"https://big.one/e
+1 | n/trade/KENDU-USDT"},{src:"/images/exchanges/superex.svg",alt:"SuperEx",link:"https://www.sup
+1 | erex.com/trade/KENDU_USDTT"},{src:"/images/exchanges/bilaxy.svg",alt:"Bilaxy",link:"https://bilaxy.c
+1 | om/trade/KENDU_ETH"},{src:"/images/exchanges/probit.svg",alt:"ProBit",link:"https://www.probit
+1 | .com/app/exchange/KENDU-USDT"},{src:"/images/exchanges/grovex.png",alt:"Grovex",link:"https://www.grove
+1 | x.io/en_US/trade/KENDU_USDT"},{src:"/images/exchanges/changenow.png",alt:"ChangeNow",link:"https://cha
+1 | ngenow.io/?from=btc&to=kendu"}];var g=At(),w=m(r(g),2);H(w,21,()=>h,te,(_,p)=>{var s=Tt(),o=r(s);t(s),R(()=>
+1 | on>');function Ft(d,u){O(u,!0);const h=[{id:1,text:"What is Kendu?",answer:`Kendu is a permissionless brand, memecoin ecosystem, and social movem
+1 | nd the scenes. Every holder is the team. Every action moves Kendu forward.
+1 | Kendu’s strength comes from a simple idea: when you remove limits on who can build, a
+1 | Kendu’s ecosystem grows through real people, not paid campaigns. There are no fake me
+1 | nd sale comes from a person who genuinely cares. That’s why Kendu scales infinitely. It grows through activation, not orders.
+1 | Kendu is a living experiment in what happens when a brand belongs to everyone. Many r
+1 | `},{id:2,text:"Is Kendu just another dog/animal token?",answer:`
+1 | No. Kendu, despite its logo, was not built around an animal narrative, TikTok pet, or a p
+1 | o put projects into categories they already understand, but Kendu doesn’t fit into any of them. It isn’t a copy, it isn’t a flavour of the month,
+1 | Inside the community, Kendu becomes whatever you make it. For some, it’s a creative outlet, for others, a b
+1 | ly a shared mission to build something meaningful together. Kendu is a blank canvas, and what it represents is up to you.
+1 | Start by understanding that you are Kendu. Every post, every conversation, every action matters. The project grows throug
+1 | and grow with you. Every bit of authentic activity adds to Kendu’s momentum and creates ripple effects that go further than you think.
+1 | If you want Kendu to succeed, act like it already has. Who are you going to onboard today?
+1 | name="twitter:image" content="https://kendu.io/images/og-home.jpg"/>`,1),_r=x("<!> <!> <!> <!> <!> <!> <!> <!> <!> <!>",1);
+1 | u=_r();He("1uha8ag",b=>{var y=br();N(22),ge(()=>{Ae.title="Kendu"}),c(b,y)});var h=oe(u);We(h,{});var l=m(h,2);Kt(l,{id:"about"});var g=m(l,2);s
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/01%20-%20Kendu%20OG%20Logo/Kendu%20OG%20Logo.png",svgPath:"/downloads/Brand%20Assets/01%20-%20
+1 | Kendu%20OG%20Logo/Kendu%20OG%20Logo%20(Traced)%20vector.svg"},{id:"simplified-logo-black",name:"Simplif
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/02%20-%20Kendu%20Simplified%20Logo/01%20-%20Kendu%20Simplified%20Logo%20-%20PNG%20&%20SVG%20-%
+1 | 20Black/Kendu%20Simplified%20Logo%20-%20Black.png",svgPath:"/downloads/Brand%20Assets/02%20-%
+1 | 20Kendu%20Simplified%20Logo/01%20-%20Kendu%20Simplified%20Logo%20-%20PNG%20&%20SVG%20-%20Black/Kendu%20Simplified%20Logo%2
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/02%20-%20Kendu%20Simplified%20Logo/02%20-%20Kendu%20Simplified%20Logo%20-%20PNG%20&%20SVG%20-%
+1 | 20White/Kendu%20Simplified%20Logo%20-%20White.png",svgPath:"/downloads/Brand%20Assets/02%20-%
+1 | 20Kendu%20Simplified%20Logo/02%20-%20Kendu%20Simplified%20Logo%20-%20PNG%20&%20SVG%20-%20White/Kendu%20Simplified%20Logo%2
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/03%20-%20Kendu%20Mask%20Logo/01%20-%20Kendu%20Mask%20Logo%20-%20PNG%20&%20SVG%20-%20Black/Kend
+1 | 0-%20Black.png",svgPath:"/downloads/Brand%20Assets/03%20-%20Kendu%20Mask%20Logo/01%20-%20Kendu%20Mask%20Logo%20-%20PNG%20&%20SVG%20-%20Black/Kend
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/03%20-%20Kendu%20Mask%20Logo/02%20-%20Kendu%20Mask%20Logo%20-%20PNG%20&%20SVG%20-%20White/Kend
+1 | 0-%20White.png",svgPath:"/downloads/Brand%20Assets/03%20-%20Kendu%20Mask%20Logo/02%20-%20Kendu%20Mask%20Logo%20-%20PNG%20&%20SVG%20-%20White/Kend
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/04%20-%20Kendu%20Ears%20Logo/01%20-%20Kendu%20Ears%20Logo%20-%20PNG%20&%20SVG%20-%20Black/Kend
+1 | 0-%20Black.png",svgPath:"/downloads/Brand%20Assets/04%20-%20Kendu%20Ears%20Logo/01%20-%20Kendu%20Ears%20Logo%20-%20PNG%20&%20SVG%20-%20Black/Kend
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/04%20-%20Kendu%20Ears%20Logo/01%20-%20Kendu%20Ears%20Logo%20-%20PNG%20&%20SVG%20-%20White/Kend
+1 | 0-%20White.png",svgPath:"/downloads/Brand%20Assets/04%20-%20Kendu%20Ears%20Logo/01%20-%20Kendu%20Ears%20Logo%20-%20PNG%20&%20SVG%20-%20White/Kend
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/05%20-%20Kendu%20Umbrellu%20Logo/01%20-%20Kendu%20Umbrellu%20Logo%20-%20PNG%20&%20SVG%20-%20Bl
+1 | ack/Kendu%20Umbrellu%20Logo%20-%20Black.png",svgPath:"/downloads/Brand%20Assets/05%20-%20
+1 | Kendu%20Umbrellu%20Logo/01%20-%20Kendu%20Umbrellu%20Logo%20-%20PNG%20&%20SVG%20-%20Black/Kendu%20Umbrellu%20Logo%20-%2
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/05%20-%20Kendu%20Umbrellu%20Logo/02%20-%20Kendu%20Umbrellu%20Logo%20-%20PNG%20&%20SVG%20-%20Wh
+1 | ite/Kendu%20Umbrellu%20Logo%20-%20White.png",svgPath:"/downloads/Brand%20Assets/05%20-%20
+1 | Kendu%20Umbrellu%20Logo/02%20-%20Kendu%20Umbrellu%20Logo%20-%20PNG%20&%20SVG%20-%20White/Kendu%20Umbrellu%20Logo%20-%2
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/06%20-%20Kendu%20Unicase%20Text%20Logo/01%20-%20Kendu%20Unicase%20Text%20Only%20-%20PNG%20&%20
+1 | SVG%20-%20Black/Kendu%20Unicase%20Text%20Logo%20-%20Black.png",svgPath:"/downloads/Brand%20Assets/06%
+1 | 20-%20Kendu%20Unicase%20Text%20Logo/01%20-%20Kendu%20Unicase%20Text%20Only%20-%20PNG%20&%20SVG%20-%20Black/Kendu%20Unicase%20Text%
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/06%20-%20Kendu%20Unicase%20Text%20Logo/02%20-%20Kendu%20Unicase%20Text%20Only%20-%20PNG%20&%20
+1 | SVG%20-%20White/Kendu%20Unicase%20Text%20Logo%20-%20White.png",svgPath:"/downloads/Brand%20Assets/06%
+1 | 20-%20Kendu%20Unicase%20Text%20Logo/02%20-%20Kendu%20Unicase%20Text%20Only%20-%20PNG%20&%20SVG%20-%20White/Kendu%20Unicase%20Text%
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/07%20-%20Kendu%20Uppercase%20Text%20Logo/01%20-%20Kendu%20Uppercase%20Text%20Only%20-%20PNG%20
+1 | &%20SVG%20-%20Black/Kendu%20Uppercase%20Text%20Logo%20-%20Black.png",svgPath:"/downloads/Brand%20Assets/0
+1 | 7%20-%20Kendu%20Uppercase%20Text%20Logo/01%20-%20Kendu%20Uppercase%20Text%20Only%20-%20PNG%20&%20SVG%20-%20Black/Kendu%20Uppercase%20T
+1 | ng:!0,hasSvg:!0,pngPath:"/downloads/Brand%20Assets/07%20-%20Kendu%20Uppercase%20Text%20Logo/02%20-%20Kendu%20Uppercase%20Text%20Only%20-%20PNG%20
+1 | &%20SVG%20-%20White/Kendu%20Uppercase%20Text%20Logo%20-%20White.png",svgPath:"/downloads/Brand%20Assets/0
+1 | 7%20-%20Kendu%20Uppercase%20Text%20Logo/02%20-%20Kendu%20Uppercase%20Text%20Only%20-%20PNG%20&%20SVG%20-%20White/Kendu%20Uppercase%20T
+1 | text-[1.25rem]">Art</h3> <a href="/downloads/Brand%20Assets/Kendu%20Arts/Archive.zip" download="" class="flex cursor-pointer items-center justify
+1 | -2"></div></div></section>');function ke(B){const K=[{name:"Kendu Air Kick",imageUrl:"/images/brand-assets/arts/kendu-air-kick.png",imageClass:"a
+1 | rt-image-air-kick",downloadPath:"/downloads/Brand%20Assets/Kendu%20Arts/kendu-air-kick.png"},{name:"Kendu Dojo Night",imageUrl:"/images/brand-as
+1 | sets/arts/kendu-dojo-night.png",imageClass:"art-image-dojo-night",containerClass:"art-container
+1 | -dojo-night",downloadPath:"/downloads/Brand%20Assets/Kendu%20Arts/kendu-dojo-night.png"},{name:"Standing Kendu",imageUrl:"/images/brand-as
+1 | sets/arts/standing-kendu.png",imageClass:"art-image-standing-kendu",downloadPath:"/downloads/Brand%20Ass
+1 | ets/Kendu%20Arts/standing-kendu.png"},{name:"Kendu Vendu",imageUrl:"/images/brand-assets/arts/kendu-vendu.png",imageClass:"art-ima
+1 | ge-vendu",downloadPath:"/downloads/Brand%20Assets/Kendu%20Arts/kendu-vendu.png"},{name:"Kendu Lantern String",imageUrl:"/images/brand-a
+1 | ssets/arts/kendu-lantern-string.png",imageClass:"art-image-lantern-string",downloadPath:"/downlo
+1 | ads/Brand%20Assets/Kendu%20Arts/kendu-lantern-string.png"}];var l=we(),i=a(l),y=n(a(i),2),k=a(y),U=a(k);C(U,{classNam
+1 | [1.25rem]">Stickers</h3> <a href="/downloads/Brand%20Assets/Kendu%20Stickers/Archive.zip" download="" class="flex cursor-pointer items-center jus
+1 | md:gap-2"></div></section>');function Ke(B){const K=[{name:"Kendu_Hoodie_Stencil",imageUrl:"/images/brand-assets/stickers/kendu-hoodie-stencil.pn
+1 | g",downloadPath:"/downloads/Brand%20Assets/Kendu%20Stickers/kendu-hoodie-stencil.svg"},{name:"You Kendu It - Diecut",imageUrl:"/images/brand-asse
+1 | ts/stickers/you-kendu-it-diecut.png",downloadPath:"/downloads/Brand%20Assets/Kendu%20Stickers/you-ken
+1 | r Pe=u('<meta name="description" content="Download official Kendu brand assets and resources."/> <meta property="og:url" content="https://kendu.i
+1 | ype" content="website"/> <meta property="og:title" content="KENDU Brand Assets"/> <meta property="og:description" content="Download official Kend
+1 | nd resources."/> <meta property="og:image" content="https://kendu.io/images/og-legal.jpg"/> <meta name="twitter:card" content="summary_large_imag
+1 | e"/> <meta property="twitter:domain" content="kendu.io"/> <meta property="twitter:url" content="https://kendu.io/brand-assets"/> <m
+1 | eta name="twitter:title" content="KENDU Brand Assets"/> <meta name="twitter:description" content="Download official Ken
+1 | d resources."/> <meta name="twitter:image" content="https://kendu.io/images/og-legal.jpg"/>',1),Le=u('<!> <div class="mx-auto max-w-[81rem] pt-[5
+1 | {var K=Le();J("ozk8c2",v=>{var r=Pe();T(22),Z(()=>{q.title="KENDU Brand Assets"}),p(v,r)});var l=O(K);Q(l,{});var i=n(l,2),y=n(a(i),2),k=a(y);re(
+1 | 3rem] text-[#FFF] max-lg:text-base max-md:text-[0.9375rem]">Kendu is a permissionless brand, you can build anything and we'll support you! Beta t
+1 | vents and more."/> <meta property="og:url" content="https://kendu.io/build"/> <meta property="og:type" content="website"/> <meta property="og:tit
+1 | le" content="KENDU Community"/> <meta property="og:description" content="See what the pack is ship
+1 | nts and more."/> <meta property="og:image" content="https://kendu.io/images/og-build.jpg"/> <meta name="twitter:card" content="summary_large_imag
+1 | e"/> <meta property="twitter:domain" content="kendu.io"/> <meta property="twitter:url" content="https://kendu.io/build"/> <meta nam
+1 | e="twitter:title" content="KENDU Community"/> <meta name="twitter:description" content="See what the pack is shi
+1 | ts and more."/> <meta name="twitter:image" content="https://kendu.io/images/og-build.jpg"/>',1),k2=a("<!> <!> <!> <!> <!> <!> <!> <!> <!>",1);fun
+1 | =k2();yo("u09bub",we=>{var ie=y2();Re(22),Co(()=>{Bo.title="KENDU Community"}),s(we,ie)});var C=H(se);zo(C);var Y=l(C,2);qo(Y,{id:"how"});var ee=
+1 | xt-[3.125rem] max-md:max-w-full max-md:text-[2.375rem]">Buy Kendu</div> <div class="flex gap-4 max-lg:grid max-lg:grid-cols-2 max-lg:gap-4 max-md
+1 | go.svg",alt:"Coinbase",link:"https://www.coinbase.com/price/kendu-inu "}];let u=0,d,k=j(0),U=j(0),C=j(!1);ze(()=>{const c=()=>{u=window.scrollY;c
+1 | s/1inch.svg",url:"https://app.1inch.io/swap?src=1:ETH&dst=1:Kendu",networks:["ethereum"]},{id:"cowswap",name:"CowSwap",logo:"/images/exchanges/co
+1 | wswap.svg",url:"https://swap.cow.fi/#/1/swap/WETH/Kendu",networks:["ethereum"]},{id:"raydium",name:"Raydium",logo:"/images/exchanges/ra
+1 | xchanges/1inch.svg",url:"https://app.1inch.io/swap?src=8453:Kendu",networks:["base"]},{id:"cowswap2",name:"CowSwap",logo:"/images/exchanges/cowsw
+1 | ap.svg",url:"https://swap.cow.fi/#/8453/swap/ETH/Kendu",networks:["base"]},{id:"coinbase",name:"Coinbase",logo:"/images/exchanges/coin
+1 | base.svg",url:"https://www.coinbase.com/price/kendu-inu",networks:["cexs"]},{id:"lbank",name:"LBank",logo:"/images/exchanges/lbank.
+1 | svg",url:"https://www.lbank.com/trade/kendu_usdt",networks:["cexs"]},{id:"coinex",name:"CoinEx",logo:"/images/exchanges/coi
+1 | nex.svg",url:"https://www.coinex.com/en/info/KENDU",networks:["cexs"]},{id:"fameex",name:"FameEX",logo:"/images/exchanges/fameex.s
+1 | vg",url:"https://www.fameex.com/en-US/trade/kendu-usdt",networks:["cexs"]},{id:"bigone",name:"BigOne",logo:"/images/exchanges/big
+1 | one.svg",url:"https://big.one/en/trade/KENDU-USDT",networks:["cexs"]},{id:"superex",name:"SuperEx",logo:"/images/exchanges/s
+1 | uperex.svg",url:"https://www.superex.com/trade/KENDU_USDT",networks:["cexs"]},{id:"bilaxy",name:"Bilaxy",logo:"/images/exchanges/bil
+1 | axy.svg",url:"https://bilaxy.com/trade/KENDU_ETH",networks:["cexs"]},{id:"probit",name:"ProBit",logo:"/images/exchanges/prob
+1 | it.svg",url:"https://www.probit.com/app/exchange/KENDU-USDT",networks:["cexs"]},{id:"grovex",name:"GroveX",logo:"/images/exchanges/gro
+1 | vex.png",url:"https://www.grovex.io/en_US/trade/KENDU_USDT",networks:["cexs"]},{id:"changenow",name:"ChangeNow",logo:"/images/exchang
+1 | es/changenow.png",url:"https://changenow.io/?from=btc&to=kendu",networks:["cexs"]}];function Ue(g){return Object.prototype.toString.call(g)===
+1 | hite max-md:text-[0.875rem]">Awesome — you're ready to buy $KENDU. Just choose the chain you prefer: <br/> Buy on: <ul class="list-inside list-di
+1 | 0.875rem]">Congratulations! You are now a main character in Kendu, time to start acting like it.</div></div>`,1),Lt=_(`<div class="flex gap-10 ma
+1 | racking-[0.0125rem] text-white max-md:text-[0.875rem]">Buy $KENDU: <br/> Tap the link for the chain you chose: <ul class="list-inside list-disc">
+1 | text-white max-lg:text-[0.9375rem]">You’ll be set up with $KENDU quicker than your first “what’s a gas fee?” moment.</p></div> <div class="flex
+1 | name="description" content="Simple on-ramp. Wallet or CEX – KENDU in minutes."/> <meta property="og:url" content="https://kendu.io/buy"/> <meta p
+1 | content="website"/> <meta property="og:title" content="Buy KENDU"/> <meta property="og:description" content="Simple on-ramp. Wallet or CEX – KEN
+1 | U in minutes."/> <meta property="og:image" content="https://kendu.io/images/og-buy.jpg"/> <meta name="twitter:card" content="summary_large_image"
+1 | /> <meta property="twitter:domain" content="kendu.io"/> <meta property="twitter:url" content="https://kendu.io/buy"/> <meta name=
+1 | "twitter:title" content="Buy KENDU"/> <meta name="twitter:description" content="Simple on-ramp. Wallet or CEX – KE
+1 | in minutes."/> <meta name="twitter:image" content="https://kendu.io/images/og-buy.jpg"/>',1),St=_('<span>Need help? <br class="md:hidden"/>JUST
+1 | Bt();Ne("ed3i6z",U=>{var C=Rt();X(22),Te(()=>{Fe.title="Buy KENDU"}),f(U,C)});var n=re(o);Ge(n,{});var h=i(n,2);dt(h,{});var u=i(h,2);wt(u,{id:"p
+1 | fore you build."/> <meta property="og:url" content="https://kendu.io/policy"/> <meta property="og:type" content="website"/> <meta property="og:ti
+1 | tle" content="KENDU Brand Use Policy"/> <meta property="og:description" content="Permissionless use
+1 | re you build."/> <meta property="og:image" content="https://kendu.io/images/og-legal.jpg"/> <meta name="twitter:card" content="summary_large_imag
+1 | e"/> <meta property="twitter:domain" content="kendu.io"/> <meta property="twitter:url" content="https://kendu.io/policy"/> <meta na
+1 | me="twitter:title" content="KENDU Brand Use Policy"/> <meta name="twitter:description" content="Permissionless us
+1 | e you build."/> <meta name="twitter:image" content="https://kendu.io/images/og-legal.jpg"/>',1),u=a(`<!> <div class="mx-auto max-w-[70rem] px-16
+1 | ing-[1.4] tracking-[-0.02125rem] text-grey-g1 uppercase">🛡 Kendu Brand Use Policy</h2> <p class="font-uniform-pro-regular text-[1.125rem] leadin
+1 | g-[1.5] tracking-[0.01125rem] text-grey-g1">Kendu is a permissionless brand built by the community, for the community. It represe
+1 | dentity — open to all who build in good faith. By using the Kendu name or
+1 | one can create products, services, or experiences using the Kendu name (e.g., Kendu
+1 | Games, Kendu Coffee, Kendu Energy) as long as that use is:</p> <p class="mb-2">- Non-exclusive</p> <p clas
+1 | s</p> <p>You may not attempt to block others from using the Kendu brand in good faith.</p></div></section> <section class="flex flex-col gap-6"><
+1 | spirit of Kendu and will be actively opposed.</p></section> <section class="flex flex-col gap-6
+1 | g-[1.5] tracking-[0.01125rem] text-grey-g1"><p class="mb-2">Kendu is not a company or centralized entity. It is a living, decentralized identity.
+1 | </p> <p>Projects using the Kendu name are independent and self-directed. The Kendu community
+1 | i){var e=u();p("rhu1d7",o=>{var s=g();r(22),m(()=>{c.title="KENDU Brand Use Policy"}),t(o,s)});var n=l(e);d(n,{}),r(2),t(i,e)}export{v as compone
+1 | if (/^[a-z0-9_./:-]+$/i.test(s) && !/kendu/i.test(s)) continue;
+1 | if (s.length > 400 && !/kendu/i.test(s) && !/[A-Z][a-z]{3,}/.test(s)) continue;
+1 | if (/[{};]|<\/?[a-z]/i.test(s) && s.length > 80 && !/kendu/i.test(s)) continue;
+1 | /kendu|buy|build|community|token|brand|policy|wallet|telegram|solana|eth|base/i.test(s
+1 | const re = /[^\n]{0,60}(?:Kendu|KENDU|kendu)[^\n]{0,80}/g;
+1 | "KENDU EMPOWERS",
+1 | "Kendu Games",
+1 | "What is Kendu",
+1 | "Track Kendu",
